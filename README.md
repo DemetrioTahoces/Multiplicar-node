@@ -7,4 +7,5 @@ Ejecutar este comando:  npm install
 y después:
 
 -npm app crear --b 7
+
 -npm app listar --b 7
